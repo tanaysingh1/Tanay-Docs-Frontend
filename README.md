@@ -1,3 +1,8 @@
+File viewing page in FileDisplay.js, File creating page in CreateFile.js. Runs on Port 3000. Uses axios for API calls. By default it makes a call to localhost:8080. Will add CSS styling at some point, as well as renaming functionality. Will also remove unused assets from the default react app in the future such as logo. Enjoy :)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
