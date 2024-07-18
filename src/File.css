@@ -1,0 +1,8 @@
+.File-button{
+border-radius: 8px;
+background-color:rgb(123, 123, 208);
+}
+.File-div{
+display: flex;
+justify-content: space-evenly;
+}
